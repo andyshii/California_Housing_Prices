@@ -1,5 +1,5 @@
 ## Info
-Application of machine learning methods on a classical dataset to predict the price of real estate in the state of California.
+Application of machine learning methods on a classical dataset to predict the price of real estate in  the California <img src="https://cdn-icons-png.flaticon.com/512/321/321218.png" width="25"/>.
 
 ## Using:
  - Data preprocessing
